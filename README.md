@@ -10,7 +10,13 @@ Java and NetBeans IDE 8.0.1
 
 Liberaries:
 =========
-Java.io, java.math, java.util
+java.math.BigInteger: for working with very big intigers.
+java.util.Random : for produce random number
+java.util.Stack : for working with stacks
+java.util.List : for working in lists
+java.util.Vector: for working on vectors
+. . . . . . . 
+. . . . . . .
 
 
 
