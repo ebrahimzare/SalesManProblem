@@ -1,0 +1,17 @@
+Travelling Sales Man Problem
+
+Complexity and result discussion 
+==========
+1- Maximum time and minimum saving  for 10 excuations of these two algorithm is according to following table: 
+ms= milisecond
+Vertices- Approach	n=5	n=10	n=15	n=20	n=25		
+Naive	4 ms	2202 ms	60001 ms	937110 ms	60001		
+Branch and bound	14 ms	163 ms	21256 ms	24214 ms	60001		
+							
+
+- In naive algorithm  from  n=15,   time of executation is boger than 1 minute.
+-In Branch and Bound Algorithm from n=25  ,   time of executation is boger than 1 minute.
+
+
+
+
